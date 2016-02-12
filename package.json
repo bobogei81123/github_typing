@@ -1,0 +1,32 @@
+{
+  "name": "github_typing",
+  "version": "1.0.0",
+  "description": "typing github repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "github-api": "^0.11.2",
+    "jquery": "^2.2.0",
+    "semantic-ui": "^2.1.8"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-stage-0": "^6.5.0",
+    "babelify": "^7.2.0",
+    "browser-sync": "^2.11.1",
+    "browserify": "^13.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-postcss": "^6.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "postcss-short": "^1.4.0",
+    "precss": "^1.4.0",
+    "tsify": "^0.13.2",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
